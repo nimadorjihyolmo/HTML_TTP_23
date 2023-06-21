@@ -360,21 +360,22 @@
                 - Insert your personal information and image where appropriate (don't copy text in the image below)
             <details>
             <summary>Website Img (1)</summary>
-            <img src="https://hackmd.io/_uploads/rkYrYwCvh.png" alt="drawing" width="600" height="350"/>
+            <img src="https://github.com/r0m3c/HTML_TTP_23/assets/71786791/427dfdb4-03e0-494a-b340-19b441a793de" alt="drawing" width="600" height="350"/>
             </details>
+
         - Assignment 2:
             - Create a Recipe List using your favorite choice of food (don't copy the text in the image)
                 - Hint: use li, ul, and table elements
             <details>
             <summary>Website Img (2)</summary>
-            <img src="https://hackmd.io/_uploads/S1AYsPAPn.png" alt="drawing" width="600" height="350"/>
+            <img src="https://github.com/r0m3c/HTML_TTP_23/assets/71786791/5d860e3e-3d83-4834-8610-2438b207253c" alt="drawing" width="600" height="350"/>
             </details>
         - Assignment 3:
             - Create a product catalog page that showcases different products along with their descriptions and prices.
                 - You can choose the pictures/information from your favorite online website (don't copy image text)
             <details>
             <summary>Website Img (3)</summary>
-            <img src="https://hackmd.io/_uploads/r1GWTDCP2.png" alt="drawing" width="600" height="350"/>
+            <img src="https://github.com/r0m3c/HTML_TTP_23/assets/71786791/3589cf27-5f8d-480d-9876-d3f4bcafbadc" alt="drawing" width="600" height="350"/>
             </details>
         - Assignment 4:
             - Create a user registration form that collects information from users, such as their username, password, email, and profile picture.
@@ -382,6 +383,7 @@
                 - Make sure you are using the appropriate attributes
             <details>
             <summary>Website Img (4)</summary>
-            <img src="https://hackmd.io/_uploads/BktjTwAv2.png" alt="drawing" width="600" height="350"/>
+            <img src="https://github.com/r0m3c/HTML_TTP_23/assets/71786791/28bd13fc-d17d-404d-b2bc-053dc491507f" alt="drawing" width="600" height="350"/>
             </details>
+
 - [HTML Quiz/Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSdQp4M3dGUxHYEfHCkn0X-e2he3zYIIWXDzRvUQbkjK88G1ng/viewform)
