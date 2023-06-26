@@ -5,7 +5,7 @@
 ## Meeting Process
 <!-- - [Git/GitHub Intro Presentation](https://docs.google.com/presentation/d/1vlFw8mo_maauvt0ro8b-DYpHEub8ZeY82qEkbexBe14/edit?usp=sharing) -->
 <!-- - [Git/GitHub Demo (Repo)](https://github.com/r0m3c/TTP_2023_Git_Basics) -->
-- [HTML Slides (TBD)]()
+<!-- - [HTML Slides (TBD)]() -->
 - Topics we'll be going over
     - What is HTML?
     - Basic structure of an HTML document (DOCTYPE, html, head, body).
@@ -352,6 +352,13 @@
             <img src="https://user-images.githubusercontent.com/71786791/192176275-3148d1d5-5ddb-4257-b1eb-7438929b5a85.png" alt="drawing" width="600" height="150"/>
             </details>
             ```
+- **Host HTML Website on GitHub Pages Tutorial**:
+    1) Create a new repository (make sure it is **public**)
+    2) Insert/Upload all HTML/CSS Files. Make sure `index.html` is your root file.
+    3) Go to your `Settings` page, within this repository.
+    4) Locate the `pages` section and click on it.
+    5) Under `Branch`, make sure `main` is selected. Then, click on `Save`
+    6) Wait a few minutes. Refresh your page, and now there should be a section saying `Your site is live at....`
 - **HTML Assignments (Breakout rooms - 5)**
     - **Description**: (Everyone individually) Create a respository using GitHub/Terminal (create VS Project folder). Choose 3 out of the 4 assignments to do below and push all your code to your repository when finished (all in one index.html file). Of the 3 assignments below that you choose, **Assignment 2 must be one of them**. Based on the HTML elements that we went over, try replicating to the best of your ability the website from the images provided. 
         - Assignment 1:
