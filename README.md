@@ -8,6 +8,10 @@
 <!-- - [HTML Slides (TBD)]() -->
 - Topics we'll be going over
     - What is HTML?
+        - HTML (Hypertext Markup Language) is the standard markup language used for creating webpages and structuring their content. It provides a set of predefined tags or elements that define the structure, layout, and presentation of the content within a webpage.
+        - HTML documents consist of a series of elements enclosed within tags. These tags are represented by angle brackets (< and >) and can be either opening tags, closing tags, or self-closing tags. Opening tags indicate the beginning of an element, while closing tags indicate the end. Self-closing tags are used for elements that do not have any content within them.
+        - Each HTML element serves a specific purpose and can be used to represent different types of content, such as headings, paragraphs, images, links, lists, tables, forms, and more. By combining and nesting these elements, you can create a structured hierarchy for your webpage's content.
+        - HTML is a markup language because it uses tags to mark up or annotate different parts of the content, specifying their meaning and defining their role within the document. Browsers then interpret these tags to render the webpage and display the content in a visually appealing and interactive manner.
     - Basic structure of an HTML document (DOCTYPE, html, head, body).
     - HTML tags and elements.
         - h1 - Represents a top-level heading
@@ -34,6 +38,10 @@
             ```
             <img src="image.jpg" alt="Image Description">
             <img src="logo.png" alt="Logo">
+            ```
+        - link - allows authors to link their document to other resources (in this case display an img/icon in the tab, by the title element text)
+            ```
+            <link rel="icon" href="favicon.ico" type="image/x-icon">
             ```
         - button - Creates a clickable button
             ```
